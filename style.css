@@ -297,7 +297,8 @@ color: #727272;
     .about-img button{
         top: 369px;
         left: 0px;
-      
+        margin: auto;
+        display: block;
     
     }
     /* about secation end  */
